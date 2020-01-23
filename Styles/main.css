@@ -54,7 +54,7 @@ p {
 .btn-secondary:hover {
     background-color: #E53935;
 }
-footer {
+footer{
     background-color: white;
     height: 90px;
     margin: 0px auto;
@@ -62,7 +62,7 @@ footer {
 }
 .footer-img {
     position: relative;
-    left: 120px;
+    left: 70px;
 }
 li, 
 .copyrigth{
@@ -70,6 +70,6 @@ li,
 }
 .logo-two {
     position: absolute;
-    top: 8px;
-    right: 120px;
+    top: 10px;
+    right: 160px;
 }
